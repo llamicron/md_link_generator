@@ -41,8 +41,6 @@ I ran `md_link_gen >> readme.me` and this is what is put into `readme.md`:
 
 [readme](readme.md)
 
-[test](test.md)
-
 As you can see, it's just a long list of links. This is meant to generate links for a large number of files, and then you can copy and paste them where you need them. This is useful for programs with self-written docs or instructions written in markdown.
 
 If you don't direct it into a file, the links will be displayed in your terminal. Just copy and paste them wherever you want.
